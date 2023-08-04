@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![lime's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juhyorim&show_icons=true&theme=omni)
+![lime's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juhyorim&show_icons=true&theme=material-palenight)
