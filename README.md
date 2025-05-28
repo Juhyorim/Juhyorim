@@ -39,4 +39,5 @@ email: `joohr1234@gmail.com`
 
 ## side Project
 
-- [Tico](https://github.com/Juhyorim/React-Lime)
+- [Tico Server](https://github.com/Juhyorim/React-Lime)
+- [Tico Server](https://github.com/Juhyorim/lime-server)
